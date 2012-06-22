@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "com.phonegap.getting.started"
+	version 	= "1.0.0">
+
+	<name>Wind Up Pixel Demo</name>
+
+	<description>
+		A mobile slideshow application from Wind Up Pixel.
+	</description>
+
+	<author href="http://www.winduppixel.com"
+		email="info@winduppixel.com">
+		Wind Up Pixel
+	</author>
+
+	<preference name="orientation" value="landscape" />
+</widget>
